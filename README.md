@@ -12,44 +12,7 @@ After previewing the data, we decided that we want to be able to answer the foll
     - By body type?
     - By make?
 2. What are the highest and lowest selling cars?
-
-Highest selling cars based upon average price were:
-1.	2011 Ferrari 458  Italia Just over $175,000
-2.	2013 Rolls-Royce Ghost Just Under 175,000
-3.	2013 AMG GT Just over $150,000
-4.	2014 BMW i8 Just at $150,000
-5.	2014 Bentley Flying Spur $150,000
-
-Lowest selling cars based upon average price were:
-1.	1991 Oldsmobile Cutless Ciara $200
-2.	1999 Suzuki Esteem $200
-3.	1991 Ford Ranger $200
-4.	1992 Winnebago Paseo $150
-5.	1996 Chrysler LHS $150
-
-When broken up by year ranges the 5 highest selling cars were:
-1984-1995 1995 
-1. 1992 Chevy Corvette
-2. 1994  Chevy Corvette
-3. 1990 C/K 1500 Series
-4. 1986 Chevy Corvette
-5. 1995 Chevy Corvette
-
-1996-2005
-1.	2005 F430
-2.	2004 360
-3.	2001 H1
-4.	2005 Continental GT
-5.	2005 Viper
-2006 – 2015 
-1.	2011 Ferrari 458  Italia Just over $175,000
-2.	2013 Rolls-Royce Ghost Just Under 175,000
-3.	2013 AMG GT Just over $150,000
-4.	2014 BMW i8 Just at $150,000
-5.	2014 Bentley Flying Spur $150,000
-
-
-4. Do certain states and regions have unique patterns for used cars?
+3. Do certain states and regions have unique patterns for used cars?
 
 ## Usage/Installation
 
@@ -104,6 +67,40 @@ Required packages/libraries:
     - *Speculation: What comes with selling so many cars is having a robust parts & maintenance network around the country. People who buy these brands know it is not hard to find parts (OEM or aftermarket) and service centers (official dealerships or third party specialists). That may explain why they depreciate relatively slowly: they are better maintained because they make it easy to do so.*
 
 ### What are the highest and lowest selling cars?  
+Highest selling cars based upon average price were:
+1.	2011 Ferrari 458  Italia Just over $175,000
+2.	2013 Rolls-Royce Ghost Just Under 175,000
+3.	2013 AMG GT Just over $150,000
+4.	2014 BMW i8 Just at $150,000
+5.	2014 Bentley Flying Spur $150,000
+
+Lowest selling cars based upon average price were:
+1.	1991 Oldsmobile Cutless Ciara $200
+2.	1999 Suzuki Esteem $200
+3.	1991 Ford Ranger $200
+4.	1992 Winnebago Paseo $150
+5.	1996 Chrysler LHS $150
+
+When broken up by year ranges the 5 highest selling cars were:
+1984-1995 1995 
+1. 1992 Chevy Corvette
+2. 1994  Chevy Corvette
+3. 1990 C/K 1500 Series
+4. 1986 Chevy Corvette
+5. 1995 Chevy Corvette
+
+1996-2005
+1.	2005 F430
+2.	2004 360
+3.	2001 H1
+4.	2005 Continental GT
+5.	2005 Viper
+2006 – 2015 
+1.	2011 Ferrari 458  Italia Just over $175,000
+2.	2013 Rolls-Royce Ghost Just Under 175,000
+3.	2013 AMG GT Just over $150,000
+4.	2014 BMW i8 Just at $150,000
+5.	2014 Bentley Flying Spur $150,000
 
 ### Do certain states and regions have unique patterns for used cars?
 **Which states have the highest/lowest prices on average, and does it have to do with the car manufacturing year**
