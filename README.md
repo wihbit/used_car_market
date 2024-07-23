@@ -50,7 +50,7 @@ https://docs.google.com/presentation/d/1c538AG3ENcAomSp9MeTnVUNBTYcYK78nUeEV4jU4
 
 ### How do used cars depreciate?  
 **By mileage:**  
-- Used cars steadly lose value as mileage and age increase
+- Used cars steadily lose value as mileage and age increase
 - Averaging data across all years, makes, and models, cars lose about $1,200 in value per 10,000 miles  
 
 **By body type**
