@@ -69,7 +69,7 @@ Required packages/libraries:
 ### What are the highest and lowest selling cars?  
 
 ### Do certain states and regions have unique patterns for used cars?
-**Which states have the highest/lowest prices on average, and does it have to do with the car manufacturing year
+**Which states have the highest/lowest prices on average, and does it have to do with the car manufacturing year**
 - Top 2 Most Expensive States:
     - Tennessee $16,314.75 average
     - Colorado $14,884.75 average
