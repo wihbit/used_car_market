@@ -26,6 +26,9 @@ Required packages/libraries:
 - numpy: `pip install numpy`  
 - datetime: `pip install datetime`  
 
+## Presentation Slides  
+https://docs.google.com/presentation/d/1c538AG3ENcAomSp9MeTnVUNBTYcYK78nUeEV4jU4AAU/edit?usp=sharing  
+
 ## Files
 - alex.ipynb
     - Jupyter notebook for EDA and visualizations
