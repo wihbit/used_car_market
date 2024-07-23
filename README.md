@@ -151,3 +151,8 @@ Required packages/libraries:
           - convertible in Nevada (1.23x more than national average)
           - hatchback in Washington (1.1x more than national average)
 
+## Works Cited
+- Dataset from:
+    - https://www.kaggle.com/datasets/tunguz/used-car-auction-prices/data
+- Images generated in ChatGPT OpenAI
+
