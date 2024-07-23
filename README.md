@@ -69,3 +69,48 @@ Required packages/libraries:
 ### What are the highest and lowest selling cars?  
 
 ### Do certain states and regions have unique patterns for used cars?
+**Which states have the highest/lowest prices on average, and does it have to do with the car manufacturing year
+- Top 2 Most Expensive States:
+    - Tennessee $16,314.75 average
+    - Colorado $14,884.75 average
+- Top 2 Cheapest States:
+    - New Mexico $6,514.09 average
+    - Massachusetts $6,913.72 average
+- Top 2 States with newest cars:
+    - Tennessee 2012 average car make year
+    - Illinois 2012 average car make year
+- Top 2 States with oldest cars:
+    - New Mexico 2007 average car make year
+    - Massachusetts 2007 average car make year
+ 
+- Findings: For the most part, we can see that average selling price does derive from the car's year. States with newer cars have a higher average price, and states with older cars have a lower average selling price.
+
+**What other correlations are there and what states stand out for having the best or worst deals?**
+- After outputting a correlation matrix, there is somewhat of a correlation between average selling price and odometer reading as well as car condition.
+- Findings: Average Selling Price of around $11,000 correlates to an average Odometer Reading of around 75,000 miles and average Car Condition rating of 3.25/5.0
+
+- Standout good deals:
+    - Hawaii – $12,114.02 average selling price and 45,536.67 average odometer reading
+    - New Mexico – $6,514.09 and 92,811.17 average odometer reading
+    - Oklahoma – $7,946.88 average selling price and 3.25/5.0 condition rating
+- Standout worst deals:
+    - Utah – $12,182.98 average selling price and 2.72/5.0 condition rating and 86,969.59 average odometer reading
+    - Alabama – $9,440 average selling price and 2.83/5.0 condition rating
+ 
+**Are certain makes and car body types more common in certain states and regions?**
+- In our code we created a heatmap that basically depicts the percentage difference for each brand in each state compared to the national marketshare (for example: Subaru sells __x times more in Washington than the national average).
+- Based on this premise, we found out that:
+    - GMC 2.05x more in Michigan than the national average
+    - Lincoln 2.43x more in New York than the national average
+    - Honda 2.48x more in Pennsylvania than the national average
+    - Subaru 2.78x more in Washington than the national average
+    - Infini is not very popular in various states such as Indiana, Michigan, Minnesota, Nebraska, New York, etc.
+    - Michigan is the state with the most unpopular brands, such as Acura, Audi, BMW, Honda, Hyundai, Infiniti, Kia, Lexus, Mercedes, Mitsubishi, Nissan.
+- Also analyzed car body type popularity, not by state, but region this time. Based on this new idea, we concluded that:
+    - Sedans are the most popular car body type in all four regions
+    - SUVs are the second most popular
+    - Bonus: Most likely purchases are:
+          - pickup truck in Michigan (1.85x more than national average)
+          - convertible in Nevada (1.23x more than national average)
+          - hatchback in Washington (1.1x more than national average)
+
